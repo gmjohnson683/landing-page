@@ -8,6 +8,11 @@ body {
   flex-direction: column;
 }
 
+.hero-section, .header-container, .logo, .header-links {
+  /* Using the border as a visual aid for layout purposes */
+  border: 1px solid hotpink;
+}
+
 .header-links {
   list-style: none;
   padding: 0;
@@ -23,7 +28,7 @@ a {
 }
 
 .info-section, .info-title, .info-container, .info-pair {
-  /*Using the border as a visual aid for layout purposes */
+  /* Using the border as a visual aid for layout purposes */
   border: 1px solid green;
 }
 
