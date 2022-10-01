@@ -6,6 +6,10 @@ body {
   margin: 0;
 }
 
+.action-section, .action-container, .calling-container, .button-container {
+  border: 1px solid red;
+}
+
 .footer {
   text-align: center;
   /* Using the border as a visual aid for layout purposes */
