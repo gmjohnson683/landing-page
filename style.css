@@ -11,6 +11,10 @@ body {
   border: 1px solid green;
 }
 
+.info-section {
+  height: 200px;
+}
+
 .quote-section, .quote-container, .quote, .speaker {
   /* Using the border as a visual aid for layout purposes */
   border: 1px solid blue;
