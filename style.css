@@ -37,6 +37,7 @@ a {
 .image-placeholder {
   height: 125px;
   width: 400px;
+  display: flex;
 }
 
 .info-section, .quote-section, .action-section, .footer {
