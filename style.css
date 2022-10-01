@@ -18,6 +18,10 @@ body {
   align-items: center;
 }
 
+.action-container {
+  width: 60%;
+}
+
 .footer {
   /* Using the border as a visual aid for layout purposes */
   border: 1px solid black;
