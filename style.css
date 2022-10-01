@@ -21,6 +21,7 @@ body {
 .quote-container {
   max-width: 450px;
   display: flex;
+  flex-direction: column;
 }
 
 .action-section, .action-container, .calling-container, .button-container {
