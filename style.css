@@ -8,6 +8,10 @@ body {
   flex-direction: column;
 }
 
+.info-section, .quote-section, .action-section, .footer {
+  flex: auto;
+}
+
 .info-section, .info-title, .info-container, .info-pair {
   /*Using the border as a visual aid for layout purposes */
   border: 1px solid green;
