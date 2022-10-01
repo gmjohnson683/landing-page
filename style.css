@@ -18,6 +18,7 @@ body {
 .item-picture {
   height: 100px;
   width: 100px;
+  border: 3px solid #3882F6;
 }
 
 .quote-section, .quote-container, .quote, .speaker {
