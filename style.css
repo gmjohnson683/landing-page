@@ -6,6 +6,11 @@ body {
   margin: 0;
 }
 
+.info-section, .info-title, .info-container, .info-pair {
+  /*Using the border as a visual aid for layout purposes */
+  border: 1px solid green;
+}
+
 .quote-section, .quote-container, .quote, .speaker {
   /* Using the border as a visual aid for layout purposes */
   border: 1px solid blue;
