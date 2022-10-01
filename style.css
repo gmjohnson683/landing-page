@@ -20,6 +20,7 @@ body {
 
 .action-container {
   width: 60%;
+  padding: 40px;
   display: flex;
   justify-content: space-around;
   align-items: center;
