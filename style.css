@@ -38,6 +38,7 @@ a {
   height: 125px;
   width: 400px;
   display: flex;
+  justify-content: center;
 }
 
 .info-section, .quote-section, .action-section, .footer {
