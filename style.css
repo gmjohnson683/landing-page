@@ -19,4 +19,5 @@ body {
   /* Using the border as a visual aid for layout purposes */
   border: 1px solid black;
   height: 48px;
+  display: flex;
 }
