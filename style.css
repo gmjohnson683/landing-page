@@ -30,6 +30,10 @@ a {
   text-decoration: none;
 }
 
+.hero-container {
+  display: flex;
+}
+
 .info-section, .quote-section, .action-section, .footer {
   flex: auto;
 }
