@@ -14,6 +14,7 @@ body {
 .quote-section {
   height: 200px;
   display: flex;
+  justify-content: center;
 }
 
 .action-section, .action-container, .calling-container, .button-container {
