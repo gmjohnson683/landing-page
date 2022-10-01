@@ -15,6 +15,10 @@ body {
   height: 200px;
 }
 
+.info-container {
+  display: flex;
+}
+
 .item-picture {
   height: 100px;
   width: 100px;
