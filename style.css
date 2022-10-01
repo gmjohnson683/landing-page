@@ -8,7 +8,7 @@ body {
   flex-direction: column;
 }
 
-.hero-section, .header-container, .logo, .header-links, .hero-container, .hero-content, .hero-title, .hero-text, .image-placholder {
+.hero-section, .header-container, .logo, .header-links, .hero-container, .hero-content, .hero-title, .hero-text, .image-placeholder {
   /* Using the border as a visual aid for layout purposes */
   border: 1px solid hotpink;
 }
