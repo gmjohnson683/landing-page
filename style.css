@@ -7,7 +7,12 @@ body {
 }
 
 .action-section, .action-container, .calling-container, .button-container {
+  /* Using the border as a visual aid for layout purposes */
   border: 1px solid red;
+}
+
+.action-section {
+  height: 150px;
 }
 
 .footer {
