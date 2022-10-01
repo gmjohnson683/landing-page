@@ -39,6 +39,7 @@ a {
   width: 400px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .info-section, .quote-section, .action-section, .footer {
