@@ -20,6 +20,10 @@ body {
   justify-content: center;
 }
 
+.info-pair {
+  max-width: 100px;
+}
+
 .item-picture {
   height: 100px;
   width: 100px;
