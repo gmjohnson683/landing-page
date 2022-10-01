@@ -20,6 +20,7 @@ body {
 
 .quote-container {
   max-width: 450px;
+  display: flex;
 }
 
 .action-section, .action-container, .calling-container, .button-container {
