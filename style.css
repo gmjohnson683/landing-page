@@ -8,6 +8,10 @@ body {
   flex-direction: column;
 }
 
+.header-links {
+  list-style: none;
+}
+
 .info-section, .quote-section, .action-section, .footer {
   flex: auto;
 }
