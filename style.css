@@ -2,4 +2,5 @@
   text-align: center;
   /* Using the border as a visual aid for layout purposes */
   border: 1px solid black;
+  padding: 20px 0;
 }
