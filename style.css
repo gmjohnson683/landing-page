@@ -13,6 +13,7 @@ body {
 
 .action-section {
   height: 150px;
+  display: flex;
 }
 
 .footer {
