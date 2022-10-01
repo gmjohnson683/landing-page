@@ -13,6 +13,10 @@ body {
   border: 1px solid hotpink;
 }
 
+.header-container {
+  display: flex;
+}
+
 .header-links {
   list-style: none;
   padding: 0;
