@@ -17,6 +17,7 @@ body {
 
 .info-container {
   display: flex;
+  justify-content: center;
 }
 
 .item-picture {
