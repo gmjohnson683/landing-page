@@ -20,6 +20,7 @@ body {
 
 .action-container {
   width: 60%;
+  display: flex;
 }
 
 .footer {
