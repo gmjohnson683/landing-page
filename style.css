@@ -13,6 +13,7 @@ body {
 
 .quote-section {
   height: 200px;
+  display: flex;
 }
 
 .action-section, .action-container, .calling-container, .button-container {
