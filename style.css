@@ -35,6 +35,10 @@ a {
   justify-content: center;
 }
 
+.hero-content {
+  max-width: 400px;
+}
+
 .hero-title {
   font-size: 48px;
   font-weight: bolder;
