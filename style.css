@@ -16,6 +16,7 @@ body {
 .hero-section {
   display: flex;
   flex-direction: column;
+  justify-content: space-around;
 }
 
 .header-container {
