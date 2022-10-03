@@ -74,6 +74,7 @@ a {
   background-color: #3882F6;
   color: #F9FAF8;
   padding: 8px 24px;
+  border-radius: 12px;
 }
 
 .image-placeholder {
