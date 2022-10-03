@@ -8,11 +8,6 @@ body {
   flex-direction: column;
 }
 
-.hero-section, .header-container, .logo, .header-links, .hero-container, .hero-content, .hero-title, .hero-text, .image-placeholder {
-  /* Using the border as a visual aid for layout purposes */
-  border: 1px solid hotpink;
-}
-
 .hero-section {
   padding: 0px 150px 40px;
   display: flex;
@@ -72,11 +67,6 @@ a {
   flex: auto;
 }
 
-.info-section, .info-title, .info-container, .info-pair {
-  /* Using the border as a visual aid for layout purposes */
-  border: 1px solid green;
-}
-
 .info-section {
   height: 200px;
 }
@@ -108,11 +98,6 @@ a {
   border: 3px solid #3882F6;
 }
 
-.quote-section, .quote-container, .quote, .speaker {
-  /* Using the border as a visual aid for layout purposes */
-  border: 1px solid blue;
-}
-
 .quote-section {
   height: 200px;
   display: flex;
@@ -137,11 +122,6 @@ a {
   font-weight: bold;
 }
 
-.action-section, .action-container, .calling-container, .button-container {
-  /* Using the border as a visual aid for layout purposes */
-  border: 1px solid red;
-}
-
 .action-section {
   height: 100px;
   display: flex;
@@ -158,8 +138,6 @@ a {
 }
 
 .footer {
-  /* Using the border as a visual aid for layout purposes */
-  border: 1px solid black;
   height: 54px;
   display: flex;
   justify-content: center;
