@@ -40,6 +40,10 @@ a {
   font-weight: bolder;
 }
 
+.hero-text, .header-links {
+  font-size: 18px;
+}
+
 .image-placeholder {
   height: 125px;
   width: 400px;
