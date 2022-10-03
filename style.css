@@ -8,6 +8,10 @@ body {
   flex-direction: column;
 }
 
+.hero-section, .info-section, .quote-section, .action-section {
+  flex: auto;
+}
+
 .hero-section {
   padding: 0px 150px 40px;
   display: flex;
@@ -61,10 +65,6 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.hero-section, .info-section, .quote-section, .action-section {
-  flex: auto;
 }
 
 .info-section {
