@@ -12,6 +12,11 @@ body {
   flex: auto;
 }
 
+.hero-section, .footer {
+  background-color: #1F2937;
+}
+
+
 .hero-section {
   padding: 0px 150px 40px;
   display: flex;
