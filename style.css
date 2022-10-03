@@ -81,6 +81,7 @@ a {
 
 .info-section {
   height: 200px;
+  padding: 24px;
 }
 
 .info-title, .item-description {
