@@ -49,7 +49,7 @@ a {
 }
 
 .image-placeholder {
-  height: 125px;
+  height: 200px;
   width: 400px;
   display: flex;
   justify-content: center;
