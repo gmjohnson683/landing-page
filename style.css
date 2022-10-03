@@ -122,6 +122,7 @@ a {
 
 .speaker {
   align-self: flex-end;
+  font-weight: bold;
 }
 
 .action-section, .action-container, .calling-container, .button-container {
