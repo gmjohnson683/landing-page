@@ -18,6 +18,10 @@ body {
   justify-content: space-around;
 }
 
+.logo {
+  font-size: 24px;
+}
+
 .header-links {
   list-style: none;
   padding: 0;
