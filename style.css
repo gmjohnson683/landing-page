@@ -35,6 +35,10 @@ a {
   justify-content: center;
 }
 
+.hero-title {
+  font-size: 48px;
+}
+
 .image-placeholder {
   height: 125px;
   width: 400px;
