@@ -109,6 +109,7 @@ a {
   height: 134px;
   width: 134px;
   border: 3px solid #3882F6;
+  border-radius: 10px;
 }
 
 .quote-section {
