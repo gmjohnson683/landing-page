@@ -56,7 +56,7 @@ a {
   align-items: center;
 }
 
-.info-section, .quote-section, .action-section, .footer {
+.hero-section, .info-section, .quote-section, .action-section, .footer {
   flex: auto;
 }
 
