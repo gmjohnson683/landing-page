@@ -113,6 +113,7 @@ a {
 }
 
 .quote-section {
+  background-color: #E5E7EB;
   height: 200px;
   display: flex;
   justify-content: center;
