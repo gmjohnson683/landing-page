@@ -32,6 +32,7 @@ a {
 
 .hero-container {
   display: flex;
+  justify-content: center;
 }
 
 .image-placeholder {
