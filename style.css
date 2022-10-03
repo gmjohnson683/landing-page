@@ -153,7 +153,7 @@ a {
 .footer {
   /* Using the border as a visual aid for layout purposes */
   border: 1px solid black;
-  height: 48px;
+  height: 54px;
   display: flex;
   justify-content: center;
   align-items: center;
