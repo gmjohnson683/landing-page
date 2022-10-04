@@ -73,6 +73,7 @@ a {
 .signup {
   background-color: #3882F6;
   color: #F9FAF8;
+  font-weight: bold;
   padding: 8px 24px;
   border-radius: 12px;
 }
