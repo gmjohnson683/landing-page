@@ -53,6 +53,7 @@ a {
 .hero-container {
   display: flex;
   justify-content: space-between;
+  gap: 32px;
 }
 
 .hero-content {
