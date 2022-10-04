@@ -3,6 +3,7 @@ html, body {
 }
 
 body {
+  font-family: roboto, sans-serif, monospace;
   margin: 0;
   display: flex;
   flex-direction: column;
