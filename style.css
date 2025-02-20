@@ -75,6 +75,16 @@ ul {
     align-self: flex-end;
 }
 
+.action-call{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-container {
+    display: flex;
+}
+
 .footer {
     display: flex;
     justify-content: center;
