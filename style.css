@@ -6,6 +6,13 @@ body {
     flex-direction: column;
 }
 
+.welcome,
+.page-info,
+.testimonial,
+.action-call {
+    flex: 1;
+}
+
 .welcome {
     flex: 2;
     padding: 16px;
@@ -13,12 +20,6 @@ body {
     flex-direction: column;
     gap: 60px;
     align-items: center;
-}
-
-.page-info,
-.testimonial,
-.action-call {
-    flex: 1;
 }
 
 .welcome,
