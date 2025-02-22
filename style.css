@@ -14,7 +14,6 @@ body {
 }
 
 .welcome {
-    flex: 2;
     padding: 16px;
     display: flex;
     flex-direction: column;
